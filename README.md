@@ -10,6 +10,6 @@ River Raid! was one of the best selling-games of 1983 and the second best-sellin
 It received year-end rewards from The Video Game Update and The Arkie Awards. The game received a sequel in 1988 and was ported to several other consoles the following year and several compilation game titles for handheld, console and computers. It has continued to receive praise as one of the best games for the Atari 2600 from various publications.  
   
 ![Carol Shaw in 1983 with her award plaque for selling over 500,000 copies of River Raid.](https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Carol_Shaw_Holding_Gold_River_Raid_Cartridge.jpg/220px-Carol_Shaw_Holding_Gold_River_Raid_Cartridge.jpg)
-
+  
 ## About 
 Try to write a semi-clone of the retro game [River Raid](https://en.wikipedia.org/wiki/River_Raid). using [Go](https://ge.dev). not using any game engine. 
