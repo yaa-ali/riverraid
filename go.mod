@@ -1,6 +1,6 @@
 module github.com/amirdashtii/riverride
 
-go 1.21.4
+go 1.23
 
 require (
 	github.com/mattn/go-runewidth v0.0.15 // indirect
